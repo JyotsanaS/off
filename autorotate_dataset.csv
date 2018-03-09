@@ -1,4 +1,4 @@
-code,ingredients_image(0:H,1:needs_rotation),nutrition_table
+barcode,ingredients_image(0:H 1:needs_rotation),nutrition_table
 3564709053226,0,0
 7610700603079,0,0
 3497911102126,0,0
